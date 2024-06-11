@@ -1,5 +1,7 @@
 require("dotenv").config();
-// async errors
+// async errors - like using async wrapper for error handling instead of using try/catch block
+// to use need to throw an error
+require("express-async-errors");
 
 const express = require("express");
 const notFoundMiddleware = require("./middleware/not-found");
