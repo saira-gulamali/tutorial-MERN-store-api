@@ -30,7 +30,7 @@ To start/run the app:
 * featured: true/false
 * company: ikea, liddy, caressa, marcos
 * name: all names matching a string
-* sort: by name, price, rating, company (-name means descending), where there is more than 1 sort criteria append additional criteria with a comma
+* sort: by name, price, rating, company, createdAt, (-name means descending), where there is more than 1 sort criteria append additional criteria with a comma
 * fields: fields to display for each record, where there is more than 1 field append additional fields with a comma
 * numericFilters: (price and rating only), use > or < or >= or <= for example, price<30,price>10 , where there is more than 1 numeric filter append additional filters with a comma
 * page: page number
