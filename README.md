@@ -1,6 +1,6 @@
 # 04 Store Api App
 
-Taken from Node Tutorial and Projects Course - John Smilga
+Taken from Node Tutorial and Projects Course - John Smilga - Section 7 - Store API
 
 ## Description
 
